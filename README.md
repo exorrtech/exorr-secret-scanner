@@ -10,7 +10,7 @@
 
 EXORR Secret Scanner is a lightweight, zero-dependency Python CLI tool that recursively scans your codebase for accidentally committed credentials — API keys, tokens, passwords, private keys, and more. It ships with 16 battle-tested regex patterns, intelligent false-positive detection, and JSON/Markdown report generation.
 
-Built by **[EXORR Security](https://github.com/exorrtech)**.
+Built by **[∅ EXORR](https://github.com/exorrtech)**.
 
 ---
 
@@ -201,4 +201,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-**Walk with the void.** EXORR Security
+**Walk with the void.** ∅ EXORR
