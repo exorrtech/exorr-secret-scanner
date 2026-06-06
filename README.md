@@ -4,6 +4,7 @@
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
 ![Tests](https://img.shields.io/badge/tests-8%20passing-brightgreen.svg)
+[![CI](https://github.com/exorrtech/exorr-secret-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/exorrtech/exorr-secret-scanner/actions/workflows/ci.yml)
 
 **Detect leaked secrets in Git repositories and directories.**
 
