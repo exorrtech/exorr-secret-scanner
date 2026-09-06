@@ -9,7 +9,7 @@ description = "EXORR Secret Scanner — detect leaked secrets in Git repositorie
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
-authors = [{name = "EXORR Security", email = "exorrnull@gmail.com"}]
+authors = [{name = "EXORR Security", email = "ops@exorr.tech"}]
 keywords = ["secret-scanner", "git", "security", "credential-leak", "api-key-detection"]
 classifiers = [
     "Development Status :: 4 - Beta",
